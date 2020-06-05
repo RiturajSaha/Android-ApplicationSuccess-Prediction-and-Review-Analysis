@@ -1,1 +1,2 @@
 # Android-ApplicationSuccess-Prediction-and-Review-Analysis
+In this project,  a KNN regression model was used to predict rating of apps from their attributes, this allowed to predict the rating with an accuracy of 83.09 %  and  the review sentiment of the users were also classified using Natural Language Processing(Bag of Words model and Naive Bayes classifier) with an accuracy of 91.2%. The relation between different features of an App (such as Installations vs Rating, Category vs Rating) were also visualized and categorized  using various clustering models.
